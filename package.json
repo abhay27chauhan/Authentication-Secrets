@@ -21,16 +21,12 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node server.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/abhay27chauhan/Authentication-Secrets.git"
   },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/abhay27chauhan/Authentication-Secrets/issues"
-  },
-  "homepage": "https://github.com/abhay27chauhan/Authentication-Secrets#readme"
+  "license": "ISC"
 }
